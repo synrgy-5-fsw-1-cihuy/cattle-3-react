@@ -13,7 +13,6 @@ function App() {
       <Content />
       <Another />
       <Footer />
-      oke
     </>
   );
 }
