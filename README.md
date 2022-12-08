@@ -10,11 +10,11 @@
 
 ## Task
 
-- [ ] Header => Hasan
-- [ ] Carousel => Nandang
-- [ ] Content => Jalil
-- [ ] Another => Roni
-- [ ] Footer => Ridwan
+- [x] Header => Hasan
+- [x] Carousel => Nandang
+- [x] Content => Jalil
+- [x] Another => Roni
+- [x] Footer => Ridwan
 
 ## How to run
 
